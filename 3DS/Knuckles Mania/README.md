@@ -11,4 +11,4 @@ Meet Knuckles, the character from the Sonic series who is the subject of many me
 - Brad Buxer: composer of the "Knuckles' Theme" music in *Sonic the Hedgehog 3*
 - Howard Drossin: composer of the "Knuckles' Theme" music in *Sonic & Knuckles*
 - Tee Lopes, Jun Senoue: remixers of this same music under the title "Knuckles' Theme - Sonic Mania Adventures Special Remix", used in this theme
-- Allinxter: font from its theme "Pokémon HGSS - Tower Duo"
+- Allinxter: font from its skin "Pokémon HGSS - Tower Duo"
