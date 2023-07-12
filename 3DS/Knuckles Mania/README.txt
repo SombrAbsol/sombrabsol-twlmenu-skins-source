@@ -13,4 +13,4 @@ Credits:
 - Brad Buxer: composer of the "Knuckles' Theme" music in Sonic the Hedgehog 3
 - Howard Drossin: composer of the "Knuckles' Theme" music in Sonic & Knuckles
 - Tee Lopes, Jun Senoue: remixers of this same music under the title "Knuckles' Theme - Sonic Mania Adventures Special Remix", used in this theme
-- Allinxter: font from its theme "Pokémon HGSS - Tower Duo"
+- Allinxter: font from his "Pokémon HGSS - Tower Duo" skin
