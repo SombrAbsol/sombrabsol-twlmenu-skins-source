@@ -17,7 +17,8 @@ In order to make the volume variations a little more fun, I decided to replace t
 As the description says, I have hidden an easter egg in this theme. It's easy to find, you may have already seen it without realizing it. If you are a Sonic fan and know "a little" about the history of the development of Sonic the Hedgehog 3, you should be able to identify it with the theme music (yeah, that's a clue).
 
 ## Credits
-- SombrAbsol: theme realization
+- SombrAbsol: skin realization
 - Gaseiki: fan art of the top screen
 - Brad Buxer: composer of the music for IceCap Zone in *Sonic the Hedgehog 3*
-- Allinxter: font from its theme "Pokémon HGSS - Tower Duo"
+- SEGA: composer of the prototype music for IceCap Zone in *Sonic the Hedgehog 3*
+- Allinxter: font from its skin "Pokémon HGSS - Tower Duo"
