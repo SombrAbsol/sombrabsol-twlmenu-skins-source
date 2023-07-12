@@ -1,13 +1,11 @@
-=================
-Knuckles Mania
-=================
+# Knuckles Mania
 
 Version: 1.0.0
 
-Description:
+## Description
 Meet Knuckles, the character from the Sonic series who is the subject of many memes, with this theme featuring him. On the program: Chaos Emeralds, sandwiches & Knuckles.
 
-Credits:
+## Credits
 - SombrAbsol: theme realization
 - Akira Watanabe: official Knuckles artwork of the top screen
 - Brad Buxer: composer of the "Knuckles' Theme" music in Sonic the Hedgehog 3
