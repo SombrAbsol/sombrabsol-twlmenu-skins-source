@@ -20,5 +20,5 @@ As the description says, I have hidden an easter egg in this theme. It's easy to
 - SombrAbsol: skin realization
 - Gaseiki: fan art of the top screen
 - Brad Buxer: composer of the music for IceCap Zone in *Sonic the Hedgehog 3*
-- SEGA: composer of the prototype music for IceCap Zone in *Sonic the Hedgehog 3*
+- SEGA: composer of the music for IceCap Zone in the *Sonic the Hedgehog 3* 1993-11-03 prototype
 - Allinxter: font from its skin "Pokémon HGSS - Tower Duo"
