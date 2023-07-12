@@ -23,4 +23,4 @@ Credits:
 - Gaseiki: fan art of the top screen
 - Brad Buxer: composer of the music for IceCap Zone in Sonic the Hedgehog 3
 - SEGA: composer of the music for IceCap Zone in the *Sonic the Hedgehog 3* 1993-11-03 prototype
-- Allinxter: font from its skin "Pokémon HGSS - Tower Duo"
+- Allinxter: font originally used in his "Pokémon HGSS - Tour Duo" skin
